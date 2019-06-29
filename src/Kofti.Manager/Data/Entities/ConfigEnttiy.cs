@@ -1,6 +1,6 @@
 namespace Kofti.Manager.Data.Entities
 {
-    public class ConfigEnttiy : EntityBase<int>
+    public class ConfigEntity : EntityBase<int>
     {
         public string Key { get; set; }
         public string Value { get; set; }
